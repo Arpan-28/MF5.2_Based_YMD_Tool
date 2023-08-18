@@ -1,4 +1,4 @@
-# MF5.2_Based_YMD_Tool
+# MF5.2 Based YMD Tool
 Fit Calspan TIRF tire data to the MF5.2 Magic Tyre Model and create Yawing Moment diagrams for your racecar
 ### Data pre-processing and fitting
 1. Load any of the provided raw test data .m files into your workspace
